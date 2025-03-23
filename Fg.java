@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class Fg {
+class Fg { //suuuuuuu
 public static int indexOfSmallest(int[]array){
 int f=0;
 if(array[0]<array[1] && array[0]<array[2] && array[0]<array[3] &&  array[0]<array[4] )
